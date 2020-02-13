@@ -9,6 +9,7 @@ namespace CMWholesalers.DataAccessLayer
         BulkCustomer = 20,
         CasualCustomer = 100
     }
+
     public class Customer
     {
         public TypesOfCustomers TypeOfCustomer { get; set; }

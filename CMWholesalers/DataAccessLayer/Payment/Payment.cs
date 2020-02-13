@@ -10,6 +10,7 @@ namespace CMWholesalers.DataAccessLayer
         Cash,
         PayPal
     }
+
     public class Payment
     {
         public Customer Customers { get; set; }

@@ -4,7 +4,7 @@ using System;
 
 namespace CMWholesalers
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
